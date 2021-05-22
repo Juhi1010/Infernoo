@@ -1,5 +1,5 @@
 let activeIndex = 0;
-let limit = -4;
+let limit = 0;
 let disabled = false;
 let $stage;
 let $controls;
